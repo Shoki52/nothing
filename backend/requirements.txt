@@ -1,0 +1,16 @@
+pydantic==2.0.2
+python-dotenv==1.0.0
+fastapi==0.100.0
+SQLAlchemy==2.0.17
+psycopg2-binary==2.9.6
+SQLAlchemy-Utils==0.41.1
+uvicorn==0.22.0
+email-validator==2.0.0.post2
+redis==4.6.0
+PyJWT==2.7.0
+pytz==2023.3
+aiofiles==23.1.0
+python-multipart==0.0.6
+boto3==1.28.0
+pydantic-settings==2.0.1
+alembic==1.11.1
